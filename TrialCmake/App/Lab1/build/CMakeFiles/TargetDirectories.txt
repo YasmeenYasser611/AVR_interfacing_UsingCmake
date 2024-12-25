@@ -1,0 +1,7 @@
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/CMakeFiles/LAB1.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/CMakeFiles/avr-hex.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/CMakeFiles/rebuild_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/Dio/CMakeFiles/MDIO.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/Dio/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/TrialCmake/App/Lab1/build/Dio/CMakeFiles/rebuild_cache.dir

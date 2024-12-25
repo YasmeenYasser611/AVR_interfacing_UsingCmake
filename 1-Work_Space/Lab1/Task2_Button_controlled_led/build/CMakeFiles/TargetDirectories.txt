@@ -1,0 +1,5 @@
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task2_Button_controlled_led/build/CMakeFiles/DAY1LAB1.elf.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task2_Button_controlled_led/build/CMakeFiles/flash.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task2_Button_controlled_led/build/CMakeFiles/burn.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task2_Button_controlled_led/build/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task2_Button_controlled_led/build/CMakeFiles/rebuild_cache.dir

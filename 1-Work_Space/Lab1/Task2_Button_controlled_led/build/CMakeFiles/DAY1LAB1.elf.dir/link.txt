@@ -1,0 +1,1 @@
+avr-gcc CMakeFiles/DAY1LAB1.elf.dir/main.c.obj -o DAY1LAB1.elf 

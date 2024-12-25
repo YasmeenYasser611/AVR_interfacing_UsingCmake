@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+87871f67ce2fb065579bec5e4e21fe78 CMakeFiles/burn
+131570661bdffc29ee9a520c68657ef4 CMakeFiles/flash

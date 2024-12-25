@@ -1,0 +1,5 @@
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task1_DIO_LED_BLINK/DIO_LED_BLINK/build/CMakeFiles/DAY1LAB1.elf.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task1_DIO_LED_BLINK/DIO_LED_BLINK/build/CMakeFiles/flash.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task1_DIO_LED_BLINK/DIO_LED_BLINK/build/CMakeFiles/burn.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task1_DIO_LED_BLINK/DIO_LED_BLINK/build/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task1_DIO_LED_BLINK/DIO_LED_BLINK/build/CMakeFiles/rebuild_cache.dir

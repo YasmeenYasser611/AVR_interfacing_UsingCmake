@@ -1,0 +1,5 @@
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task3_Traffic_Light/build/CMakeFiles/DAY1LAB3.elf.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task3_Traffic_Light/build/CMakeFiles/flash.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task3_Traffic_Light/build/CMakeFiles/burn.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task3_Traffic_Light/build/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/1-Work_Space/Lab1/Task3_Traffic_Light/build/CMakeFiles/rebuild_cache.dir
