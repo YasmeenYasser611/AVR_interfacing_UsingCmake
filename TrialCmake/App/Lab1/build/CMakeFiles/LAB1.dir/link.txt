@@ -1,1 +1,0 @@
-avr-gcc CMakeFiles/LAB1.dir/src/main.c.obj -o LAB1  Dio/libMDIO.a 
