@@ -1,0 +1,11 @@
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/CMakeFiles/LAB2.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/CMakeFiles/avr-hex.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/CMakeFiles/burn.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/CMakeFiles/rebuild_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/MDIO/CMakeFiles/MDIO.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/MDIO/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/MDIO/CMakeFiles/rebuild_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/MPORT/CMakeFiles/MPORT.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/MPORT/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/AVR_interfacing_UsingCmake/App/Lab2/build/MPORT/CMakeFiles/rebuild_cache.dir

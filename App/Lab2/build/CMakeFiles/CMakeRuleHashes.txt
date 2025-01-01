@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+c8064517d8c1638ae9f9fde21718caa2 CMakeFiles/avr-hex
+c2d4e025080db026b85b3e22ee485896 CMakeFiles/burn

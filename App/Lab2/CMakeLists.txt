@@ -6,7 +6,7 @@ set(CMAKE_SYSTEM_NAME Generic)
 
 set(CMAKE_C_STANDARD 99)
 #set project
-project(LAB1 C)
+project(LAB2 C)
 
 
 # avr mcu is ATMEGA32 clocked @16MHz
@@ -25,7 +25,7 @@ set(${PROJECT_NAME}_INCLUDE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/inc" "${CMAKE_CURRE
 file(GLOB_RECURSE ${PROJECT_NAME}_SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/src/*.c")
 
 set(MCAL_LIBS
-MDIO
+MDIO 
 MPORT
 )
 
@@ -35,7 +35,7 @@ message(STATUS "${CMAKE_C_COMPILER}")
 
 foreach(var ${MCAL_LIBS})
 
-add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../../Components/MCAL/${var}/ "${CMAKE_BINARY_DIR}/${var}/")
+add_subdirectory("${CMAKE_CURRENT_SOURCE_DIR}/../../Components/MCAL/${var}/" "${CMAKE_BINARY_DIR}/${var}/")
 
 endforeach()
 
@@ -52,14 +52,16 @@ add_compile_options(-Wall -Os -mmcu=${MCU})
 # library target
 add_executable(${PROJECT_NAME} "${${PROJECT_NAME}_SOURCES}")
 
+target_link_libraries(${PROJECT_NAME} ${MCAL_LIBS})
+
+
 # include directory to the target
 target_include_directories(${PROJECT_NAME} PUBLIC "${${PROJECT_NAME}_INCLUDE_DIR}")
-target_link_libraries(${PROJECT_NAME} ${MCAL_LIBS})
 
 add_custom_target(
     avr-hex
-    COMMAND avr-objcopy -O ihex ${PROJECT_NAME} ${PROJECT_NAME}.hex
     DEPENDS ${PROJECT_NAME}
+    COMMAND avr-objcopy -O ihex ${PROJECT_NAME} ${PROJECT_NAME}.hex
 )
 
 # adding a custom target/build rule for burning .hex file on mcu using avrdude

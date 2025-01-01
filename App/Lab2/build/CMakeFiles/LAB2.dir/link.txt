@@ -1,0 +1,1 @@
+/usr/bin/avr-gcc CMakeFiles/LAB2.dir/src/main.c.obj -o LAB2  MDIO/libMDIO.a MPORT/libMPORT.a 
